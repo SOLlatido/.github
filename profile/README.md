@@ -63,7 +63,7 @@ https://github.com/SOLlatido/.github/assets/33896511/99bdbd29-930e-49fb-a18e-d4b
 
 # :wrench: 기술스택
 
-<br/><br/>
+<br/>
 
 ## Client
 - Node.js
@@ -99,7 +99,7 @@ https://github.com/SOLlatido/.github/assets/33896511/99bdbd29-930e-49fb-a18e-d4b
 
 # :triangular_ruler: 개발 산출물
 
-<br/><br/>
+<br/>
 
 ## API 명세서
 ![api 명세서](https://github.com/SOLlatido/.github/assets/33896511/a868ba92-33fe-46df-98cf-06731424662b)
