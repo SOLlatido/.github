@@ -22,9 +22,42 @@
 
 # :sparkles: 기능 소개
 
+<br/>
 
+### 1. 로그인 & 여행 중 로딩
 
+https://github.com/SOLlatido/.github/assets/33896511/95e34175-6f94-4b5e-91db-9d18bfb04942
 
+<br/><br/>
+
+### 2. 동행통장 만들기
+
+https://github.com/SOLlatido/.github/assets/33896511/520f7ce8-01a4-4412-a080-fe39936c8f17
+
+<br/><br/>
+
+### 3. 여행중 지출 기록
+
+https://github.com/SOLlatido/.github/assets/33896511/d1ace832-259f-47a1-9b4f-ec4268d8e274
+
+<br/><br/>
+
+### 4. 이벤트맵
+
+https://github.com/SOLlatido/.github/assets/33896511/c23c2a76-9160-42b5-a5c3-f4959dbcc170
+
+<br/><br/>
+
+### 5. 여행중 지출 레포트
+
+https://github.com/SOLlatido/.github/assets/33896511/99bdbd29-930e-49fb-a18e-d4b9ffcaa775
+
+<br/><br/>
+
+### 6. 여행 최종 지출 레포트
+![6_최종레포트](https://github.com/SOLlatido/.github/assets/33896511/315707aa-9df6-47b8-8d0f-6ff5db726d1e)
+
+<br/><br/>
 
 <br/>
 
