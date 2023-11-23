@@ -63,6 +63,7 @@ https://github.com/SOLlatido/.github/assets/33896511/99bdbd29-930e-49fb-a18e-d4b
 
 # :wrench: 기술스택
 
+<br/><br/>
 
 ## Client
 - Node.js
@@ -98,6 +99,8 @@ https://github.com/SOLlatido/.github/assets/33896511/99bdbd29-930e-49fb-a18e-d4b
 
 # :triangular_ruler: 개발 산출물
 
+<br/><br/>
+
 ## API 명세서
 ![api 명세서](https://github.com/SOLlatido/.github/assets/33896511/a868ba92-33fe-46df-98cf-06731424662b)
 
@@ -122,6 +125,15 @@ https://github.com/SOLlatido/.github/assets/33896511/99bdbd29-930e-49fb-a18e-d4b
 
 # :family: 팀 소개
 
+
+### Team ❤️SOLlatido❤️
+> 한 걸음씩 천천히 정상을 향해 나아가자!
+<br/>
+
+![KakaoTalk_20231123_125607764](https://github.com/SOLlatido/.github/assets/33896511/d2b41e65-3a7d-4e76-8232-734af5f7b309)
+
+<br/><br/>
+
 <div align="center">
 
 |**[김민식](https://github.com/bigstar017)**|**[석다영](https://github.com/Daen12)**|**[신산하](https://github.com/SahhaShin)**|**[이승현](https://github.com/leverest96)** |
@@ -132,5 +144,3 @@ https://github.com/SOLlatido/.github/assets/33896511/99bdbd29-930e-49fb-a18e-d4b
 </div>
 
 <br/>
-
-
