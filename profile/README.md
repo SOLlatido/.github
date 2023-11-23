@@ -19,6 +19,7 @@
 
 <br/>
 <br/>
+
 # :sparkles: 기능 소개
 
 
@@ -36,12 +37,21 @@
 - Tailwind
 - Recoil
 
+<br/>
+<br/>
+
 ## Server
 - SpringBoot
 - Spring Data JPA
 
+<br/>
+<br/>
+
 ## DB
 - MySQL
+
+<br/>
+<br/>
 
 ## Infra
 - Ubuntu 20.04
@@ -58,10 +68,14 @@
 ## API 명세서
 ![api 명세서](https://github.com/SOLlatido/.github/assets/33896511/a868ba92-33fe-46df-98cf-06731424662b)
 
+<br/>
+<br/>
 
 ## ERD
 ![solsoltripERD](https://github.com/SOLlatido/.github/assets/33896511/c76d6a53-d3a6-4825-b3a2-ba56d2335fd7)
 
+<br/>
+<br/>
 
 ## 간트차트
 ![간트차트1](https://github.com/SOLlatido/.github/assets/33896511/07c0e3c6-2b1d-4c2a-ac20-0878db305aec)
